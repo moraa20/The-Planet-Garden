@@ -39,7 +39,7 @@ export default function Hero() {
         </h1>
 
         <p className="text-lg sm:text-xl md:text-2xl text-stone-200 max-w-2xl mx-auto mb-10 leading-relaxed">
-          Luxury resort and recreation centre for families and adventurers — where nature meets comfort.
+          Luxury resort and recreation centre for families and adventurers where nature meets comfort.
         </p>
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">

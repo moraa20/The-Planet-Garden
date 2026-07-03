@@ -2,11 +2,11 @@ import { CheckCircle } from 'lucide-react';
 
 const highlights = [
   'Nestled within 15 lush acres of curated tropical gardens',
-  'Family-friendly environment with dedicated kids\' zones',
+  'Family friendly environment with dedicated kids\' zones',
   'Professional concierge and event coordination services',
   'Eco-conscious design with solar and rainwater harvesting',
   'Direct access to scenic walking and cycling trails',
-  'Farm-to-table dining experience on-site',
+  'Farm to table dining experience on-site',
 ];
 
 export default function About() {
@@ -52,7 +52,7 @@ export default function About() {
               Where Luxury Meets Nature
             </h2>
             <p className="mt-5 text-stone-600 text-lg leading-relaxed">
-              Planet Gardens Resort & Recreation Centre is more than a destination — it's a world unto itself. Spanning over 15 breathtaking acres, our resort seamlessly blends lush botanical gardens with world-class amenities, creating a sanctuary that soothes the soul and energises the spirit.
+              Planet Gardens Resort & Recreation Centre is more than a destination  it's a world unto itself. Spanning over 15 breathtaking acres, our resort seamlessly blends lush botanical gardens with world class amenities, creating a sanctuary that soothes the soul and energises the spirit.
             </p>
             <p className="mt-4 text-stone-600 leading-relaxed">
               Whether you're seeking a romantic getaway, a family adventure, or a corporate retreat, Planet Gardens delivers an unmatched experience tailored to your every need.

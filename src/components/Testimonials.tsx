@@ -55,7 +55,7 @@ export default function Testimonials() {
             Loved by Every Guest
           </h2>
           <p className="mt-5 text-stone-300 text-lg leading-relaxed">
-            Don't just take our word for it — hear from the families, couples, and adventurers who've made Planet Gardens their home away from home.
+            Don't just take our word for it,  hear from the families, couples, and adventurers who've made Planet Gardens their home away from home.
           </p>
         </div>
 
