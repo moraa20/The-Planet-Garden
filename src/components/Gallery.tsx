@@ -1,49 +1,50 @@
 import { useState } from 'react';
 import { X, ZoomIn } from 'lucide-react';
 
+
 const images = [
   {
-    src: 'https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg',
+    src: '/images/pool.jpeg',
     alt: 'Resort swimming pool surrounded by palms',
     category: 'Pool',
   },
   {
-    src: 'https://images.pexels.com/photos/1458457/pexels-photo-1458457.jpeg',
+    src: '/images/gardenview.jpeg',
     alt: 'Tropical botanical gardens pathway',
     category: 'Gardens',
   },
   {
-    src: 'https://images.pexels.com/photos/2373201/pexels-photo-2373201.jpeg',
+    src: '/images/accommodation.jpeg',
     alt: 'Luxury resort villa exterior',
     category: 'Accommodation',
   },
   {
-    src: 'https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg',
+    src: '/images/poolview.jpeg',
     alt: 'Resort infinity pool at dusk',
     category: 'Pool',
   },
   {
-    src: 'https://images.pexels.com/photos/3155666/pexels-photo-3155666.jpeg',
+    src: '/images/dining.jpeg',
     alt: 'Outdoor dining terrace with garden views',
     category: 'Dining',
   },
   {
-    src: 'https://images.pexels.com/photos/1533946/pexels-photo-1533946.jpeg',
+    src: '/images/spa.jpeg',
     alt: 'Spa treatment room with natural elements',
     category: 'Spa',
   },
   {
-    src: 'https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg',
+    src: '/images/event.jpeg',
     alt: 'Elegant resort event space',
     category: 'Events',
   },
   {
-    src: 'https://images.pexels.com/photos/1179156/pexels-photo-1179156.jpeg',
+    src: '/images/gardens.jpeg',
     alt: 'Aerial view of resort and gardens',
     category: 'Gardens',
   },
   {
-    src: 'https://images.pexels.com/photos/2631204/pexels-photo-2631204.jpeg',
+    src: '/images/activities.jpeg',
     alt: 'Nature trail through the resort',
     category: 'Activities',
   },

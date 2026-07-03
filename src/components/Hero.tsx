@@ -14,7 +14,7 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="https://images.pexels.com/photos/1179156/pexels-photo-1179156.jpeg"
+          src="/images/poolview.jpeg"
           alt="Planet Gardens Resort aerial view"
           className="w-full h-full object-cover"
         />

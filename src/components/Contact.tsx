@@ -88,7 +88,7 @@ export default function Contact() {
             {/* Map placeholder */}
             <div className="mt-6 rounded-2xl overflow-hidden border border-stone-200 h-48">
               <img
-                src="https://images.pexels.com/photos/2190283/pexels-photo-2190283.jpeg"
+                src="/images/gardenview.jpeg"
                 alt="Resort location map view"
                 className="w-full h-full object-cover"
               />

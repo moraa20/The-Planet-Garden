@@ -18,22 +18,22 @@ export default function About() {
           <div className="relative">
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg"
+                src="/images/poolview.jpeg"
                 alt="Luxury resort pool"
                 className="rounded-2xl w-full h-56 object-cover shadow-lg"
               />
               <img
-                src="https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg"
+                src="/images/gardens.jpeg"
                 alt="Tropical garden path"
                 className="rounded-2xl w-full h-56 object-cover shadow-lg mt-8"
               />
               <img
-                src="https://images.pexels.com/photos/1458457/pexels-photo-1458457.jpeg"
+                src="/images/gardenview.jpeg"
                 alt="Resort gardens"
                 className="rounded-2xl w-full h-48 object-cover shadow-lg"
               />
               <img
-                src="https://images.pexels.com/photos/2373201/pexels-photo-2373201.jpeg"
+                src="/images/spa.jpeg"
                 alt="Peaceful resort area"
                 className="rounded-2xl w-full h-48 object-cover shadow-lg mt-8"
               />
